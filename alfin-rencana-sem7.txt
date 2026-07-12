@@ -1,0 +1,4 @@
+Rencana konten Alfin
+
+Membuat algoritma perhitungan dimensi hull
+Belajar PHP lebih mendalam lagi
