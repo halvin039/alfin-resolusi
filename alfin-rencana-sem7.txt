@@ -4,3 +4,4 @@ Membuat algoritma perhitungan dimensi hull
   *Baca buku rujukan
 Belajar PHP lebih mendalam lagi
   *BELAJAR!
+Cari tempat magang
